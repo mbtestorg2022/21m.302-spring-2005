@@ -57,17 +57,103 @@ Over the course of the semester, you will write an original theme and variations
 
 **Weighting of the Components of Your Semester Grade**
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lecture Preparation and Participation | 10% |
-| Sight-Singing Lab | 10% |
-| Piano Lab | 10% |
-| Daily Homework Assignments | 15% |
-| Weekly Quizzes | 10% |
-| Analytic Reports | 10% |
-| Test 1 (Voice-Leading and Diatonic Harmony - Lecture 8) | 10% |
-| Test 2 (Elementary Chromatic Harmony - Lecture 16) | 10% |
-| Final Project (Theme and Variations)  {{< br >}}(Drafts = 5%; Final Set = 10%) | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture Preparation and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sight-Singing Lab
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Piano Lab
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analytic Reports
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Test 1 (Voice-Leading and Diatonic Harmony - Lecture 8)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Test 2 (Elementary Chromatic Harmony - Lecture 16)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project (Theme and Variations)  
+(Drafts = 5%; Final Set = 10%)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Failure to complete any one of these components will result in failure as your semester grade. The labs are graded by their respective instructors; I will grade all other components.
 
